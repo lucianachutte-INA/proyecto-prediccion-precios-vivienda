@@ -108,11 +108,16 @@ Esta organización permitió visualizar el avance del proyecto, priorizar tareas
 
 ## Resultados obtenidos
 
-El modelo de Regresión Lineal permitió estimar el precio de viviendas a partir de variables como superficie, habitaciones, baños, antigüedad y cochera.
+El modelo de Regresión Lineal obtuvo los siguientes resultados:
 
-A partir de la evaluación del modelo se analizaron métricas como MAE y R², que permitieron observar el nivel de ajuste entre los precios reales simulados y los precios predichos.
+- MAE: 12.888,78
+- R²: 0.9484
 
-Los resultados fueron coherentes para un dataset sintético, aunque se aclara que el modelo tiene fines académicos y no debe utilizarse para decisiones inmobiliarias reales.
+El MAE indica que el modelo presenta un error promedio aproximado de 12.889 unidades monetarias entre el precio real simulado y el precio predicho.
+
+El valor de R² indica que el modelo explica aproximadamente el 94,84% de la variación del precio de las viviendas dentro del dataset sintético utilizado.
+
+Estos resultados son coherentes con el tipo de datos generados, ya que el dataset fue construido artificialmente con relaciones claras entre las variables y el precio. Por este motivo, el modelo muestra un buen desempeño en el contexto académico del proyecto.
 
 ## Limitaciones
 
