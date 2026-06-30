@@ -120,7 +120,7 @@ Esta organización permitió representar el flujo de trabajo desde la definició
 
 ### Link al tablero
 
-[Ver tablero de Trello](PEGAR_ACA_LINK_DE_TRELLO)
+[Ver tablero de Trello](https://trello.com/invite/b/6a42ea5afb5f2fdf5f7d6a0a/ATTI75e0cc3bd286f0fb7c05a812b1e8224784EEAA6F/proyecto-integrador-final-luciana-chutte)
 
 ### Captura del tablero
 
