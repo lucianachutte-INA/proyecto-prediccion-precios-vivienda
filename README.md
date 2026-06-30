@@ -61,7 +61,7 @@ Construir una solución inicial capaz de generar un dataset sintético de vivien
 
 ### Duración estimada
 
-5 días.
+6 días.
 
 ### Tareas priorizadas
 
