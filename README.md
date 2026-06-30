@@ -106,11 +106,13 @@ Para la gestión del proyecto se utilizó Trello con una estructura tipo Kanban.
 
 Esta organización permitió visualizar el avance del proyecto, priorizar tareas y registrar el flujo de trabajo desde la definición inicial hasta la documentación y presentación final.
 
-## Resultados
+## Resultados obtenidos
 
-El modelo permitió estimar precios de viviendas a partir de variables como superficie, cantidad de habitaciones, baños, antigüedad, cochera y zona.
+El modelo de Regresión Lineal permitió estimar el precio de viviendas a partir de variables como superficie, habitaciones, baños, antigüedad y cochera.
 
-Al tratarse de un dataset sintético, los resultados tienen un propósito académico y no deben ser utilizados para decisiones inmobiliarias reales.
+A partir de la evaluación del modelo se analizaron métricas como MAE y R², que permitieron observar el nivel de ajuste entre los precios reales simulados y los precios predichos.
+
+Los resultados fueron coherentes para un dataset sintético, aunque se aclara que el modelo tiene fines académicos y no debe utilizarse para decisiones inmobiliarias reales.
 
 ## Limitaciones
 
